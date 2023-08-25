@@ -5,9 +5,12 @@ Bu script, durumu "Failed" olarak işaretlenmiş olan Exchange posta kutusu dı�
 Özellikler:
 Failed durumundaki tüm Mailbox Export Request'leri otomatik olarak saptar.
 Her bir istek için ilgili posta kutusu, veritabanı ve sunucu bilgisini görüntüler.
+
 Kullanım:
 Scripti Exchange Management Shell üzerinde çalıştırın.
 Failed durumundaki tüm dışa aktarma isteklerinin detaylı bilgilerini gözlemleyin.
+
+
 FailedExportRequestInfoViewer (EN)
 This script aims to provide detailed information about Exchange mailbox export requests that are marked as "Failed".
 
